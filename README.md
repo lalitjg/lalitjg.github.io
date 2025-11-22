@@ -1,1 +1,1 @@
-lalitjg.guithub.io
+lalitjg.github.io
