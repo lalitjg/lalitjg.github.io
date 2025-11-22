@@ -1,0 +1,26 @@
+title: "Lalit – AI Research"
+description: "Personal site, projects, blog, and CV."
+theme: jekyll-theme-minimal
+
+# Basic site info
+url: "https://lalitjg.github.io"
+baseurl: ""  # keep empty for user.github.io root sites
+
+# Navigation (used by minimal theme)
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/
+
+# Social / external links (you can surface these in layout later)
+scholar: "https://scholar.google.com/citations?user=DBOPz5QAAAAJ&hl=en"
+linkedin: "https://www.linkedin.com/in/lalit-ghule1995/"
+github: "https://github.com/lalitjg"
+email: "lalitjghule@gmail.com"
