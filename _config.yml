@@ -11,13 +11,13 @@ navigation:
   - title: "Home"
     url: /
   - title: "Blogs"
-    url: /blog/
+    url: /blog
   - title: "Projects"
-    url: /projects/
+    url: /projects
   - title: "CV"
-    url: /cv/
+    url: /cv
   - title: "Contact"
-    url: /contact/
+    url: /contact
 
 # Social / external links (you can surface these in layout later)
 scholar: "https://scholar.google.com/citations?user=DBOPz5QAAAAJ&hl=en"
