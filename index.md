@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <p align="center">
-  <img src="/assets/headshot.svg" alt="Lalit Ghule" width="200" style="border-radius: 50%;">
+  <img src="/assets/headshot.png" alt="Lalit Ghule" width="200" style="border-radius: 50%;">
 </p>
 
 # Lalit Ghule – AI Research Scientist
