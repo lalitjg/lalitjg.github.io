@@ -13,8 +13,10 @@ I’m Lalit, a Senior AI Researcher at [Ansys (now part of Synopsys)](https://ww
 
 I work end-to-end across research, engineering, and productization—designing models, implementing scalable training pipelines, and integrating them into production-grade simulation tools. I primarily work in Python and PyTorch, with a strong focus on clarity, robustness, and performance.
 
+I love running, bouldering, hiking, and recently got into outdoor rock climbing. If you know any interesting spots, hit me up!
+
 - 🔬 Research areas: PDE Modeling, Geometric deep learning, NLP, RL
 - 🧠 [Current role: Senior R&D Engineer](https://www.linkedin.com/in/lalit-ghule1995/)
 - 📄 [View my CV](/cv)
 - 🧪 [See my projects](/projects)
-- ✍️ [Read the blog](/blog)
+- ✍️ [Read my blogs](/blog)
