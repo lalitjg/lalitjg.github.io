@@ -1,0 +1,26 @@
+--- --- @import "{{ site.theme }}";
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+nav ul li {
+    margin: 8px 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #267CB9;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+header p.view a {
+    display: inline-block;
+    margin-right: 10px;
+}

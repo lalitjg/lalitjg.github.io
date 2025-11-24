@@ -10,7 +10,7 @@ baseurl: ""  # keep empty for user.github.io root sites
 navigation:
   - title: "Home"
     url: /
-  - title: "Blog"
+  - title: "Blogs"
     url: /blog/
   - title: "Projects"
     url: /projects/
