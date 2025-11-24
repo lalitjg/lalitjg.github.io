@@ -19,6 +19,12 @@ navigation:
   - title: "Contact"
     url: /contact
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
 # Social / external links (you can surface these in layout later)
 scholar: "https://scholar.google.com/citations?user=DBOPz5QAAAAJ&hl=en"
 linkedin: "https://www.linkedin.com/in/lalit-ghule1995/"
