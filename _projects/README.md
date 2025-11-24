@@ -30,10 +30,21 @@ Write your project description here.
 
 Add technical details, code snippets, architecture diagrams, etc.
 
+### Architecture
+
+Describe your model/system architecture here.
+
+### Implementation
+
+```python
+# Sample code snippet
+def example_function():
+    return "This is a placeholder"
+```
+
 ## Results
 
 Present your results, metrics, or visualizations.
-```
 
 ## Front Matter Fields
 
@@ -49,3 +60,37 @@ Present your results, metrics, or visualizations.
 - The blog link should be relative (e.g., `/blog/2025/11/24/post-title`)
 - GitHub and paper links should be full URLs
 - Projects will appear on the main projects page automatically
+
+```
+## Links
+
+{% if page.github %}
+- **GitHub Repository:** [{{ page.github }}]({{ page.github }})
+{% endif %}
+
+{% if page.paper %}
+- **Paper:** [Read the paper]({{ page.paper }})
+{% endif %}
+
+{% if page.blog %}
+- **Blog Post:** [Read more about this project]({{ page.blog | relative_url }})
+{% endif %}
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@article{yourname2025,
+  title={Your Paper Title},
+  author={Your Name},
+  journal={Conference/Journal},
+  year={2025}
+}
+```
+
+---
+
+*Last updated: {{ page.date | default: "2025-11-24" | date: "%B %Y" }}*
+
+
